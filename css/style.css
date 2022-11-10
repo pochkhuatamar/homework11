@@ -73,3 +73,48 @@ input {
     margin-bottom: 30px; 
 
 }
+
+/* section2 */
+
+.threebox {
+    display: flex;
+    justify-content: space-between;
+    text-align: center; 
+}
+
+.pel > h2 {
+    font-size: 18px;
+}
+
+.pel > p {
+    font-size: 14px;
+
+}
+
+/* section3 */
+
+.photo-wrapper {
+    margin-top: 30px;
+}
+
+.threephotos {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.photo-wrapper > h2 {
+    font-size: 14px;
+    font-weight: bold;
+    color: #5863f8;
+    margin-bottom: 18px;
+
+}
+
+.photo-wrapper > h3 {
+    font-size: 42px;
+    width: 290px;
+    margin-bottom: 50px;
+
+}
+
+/* section4footer */
