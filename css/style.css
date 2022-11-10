@@ -118,3 +118,59 @@ input {
 }
 
 /* section4footer */
+
+
+ /* .blackbox {
+    border: 352px solid black
+
+}  */
+
+
+.footer-info{
+    display: flex;
+    justify-content: space-between;
+}
+.social > p { 
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.social > h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.blog > h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.blog > h3 {
+    font-size: 14px;
+    color: #5863f8;
+    margin-bottom: 10px;
+}
+
+.privacy > h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.privacy >  h3 {
+    font-size: 14px;
+    color: #5863f8;
+    margin-bottom: 10px;
+}
+
+.contactinfo >h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.contactinfo >h3 {
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+}
+.contactinfo > img {
+    
+
+}
