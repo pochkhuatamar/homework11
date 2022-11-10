@@ -84,10 +84,22 @@ input {
 
 .pel > h2 {
     font-size: 18px;
+    margin-bottom: 20px;
 }
 
 .pel > p {
     font-size: 14px;
+    
+}
+.fa-envelope {
+    margin-bottom: 15px;
+
+}
+.fa-phone {
+    margin-bottom: 15px;
+}
+.fa-location-dot {
+    margin-bottom: 15px;
 
 }
 
