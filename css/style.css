@@ -82,6 +82,10 @@ input {
     text-align: center; 
 }
 
+.btn {
+    border-radius: 50%;
+    background-color: #5863f8;
+}
 .pel > h2 {
     font-size: 18px;
     margin-bottom: 20px;
